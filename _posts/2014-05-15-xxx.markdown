@@ -1,6 +1,0 @@
----
-published: true
-title: xxx
-layout: post
----
-{% gist c9837cd72830da7120c4 %}
