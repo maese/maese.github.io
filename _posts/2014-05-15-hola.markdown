@@ -1,0 +1,6 @@
+---
+published: true
+title: Hola
+layout: post
+---
+hola mundo
