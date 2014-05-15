@@ -1,6 +1,0 @@
----
-published: false
-title: intento 2
-layout: post
----
-hola mundo
