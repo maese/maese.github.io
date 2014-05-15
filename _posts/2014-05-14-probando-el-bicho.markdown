@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Probando el bicho
 layout: post
 ---
