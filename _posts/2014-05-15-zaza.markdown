@@ -1,6 +1,6 @@
 ---
-published: false
-title: zaza
+published: true
+title: zazar
 layout: post
 ---
 zazaz
