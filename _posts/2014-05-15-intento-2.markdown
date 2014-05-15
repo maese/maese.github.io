@@ -1,7 +1,6 @@
 ---
-published: true
+published: false
 title: intento 2
 layout: post
 ---
 hola mundo
-{% gist c9837cd72830da7120c4 %}
