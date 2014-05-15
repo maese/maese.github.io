@@ -1,7 +1,0 @@
----
-published: false
-title: Hola
-layout: post
----
-hola mundo
-{% gist 7e25ab88c55817be8a1d %}
