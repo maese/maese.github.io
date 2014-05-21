@@ -1,9 +1,9 @@
 ---
-published: true
+published: false
 title: zazar
 layout: post
 ---
 zazaz
 <p>dasdasd</p>
 asdasd
-<code data-gist-id="5555251"></code>
+{% gist 5555251 %}
