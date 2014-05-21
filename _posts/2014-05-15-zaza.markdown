@@ -6,4 +6,4 @@ layout: post
 zazaz
 <p>dasdasd</p>
 asdasd
-{% gist c9837cd72830da7120c4 %}
+<script src="https://gist.github.com/maese/c9837cd72830da7120c4.js"></script>
