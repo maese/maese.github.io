@@ -1,7 +1,0 @@
----
-published: true
-title: sdf
-layout: post
----
-<script src="https://gist.github.com/maese/c9837cd72830da7120c4.js"></script>
-<script src="https://gist.github.com/maese/7e25ab88c55817be8a1d.js"></script>

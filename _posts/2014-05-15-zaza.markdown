@@ -1,9 +1,0 @@
----
-published: true
-title: zazar
-layout: post
----
-zazaz
-<p>dasdasd</p>
-asdasd
-{% gist 5555251 %}
