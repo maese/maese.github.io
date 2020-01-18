@@ -42,41 +42,12 @@ fieldset {border: 0;margin: 0;padding: 0;}
 html {font-size:62.5%; height:100%; overflow:-moz-scrollbars-vertical; overflow-y:scroll; overflow-x:hidden;}
 
 body {font-family:'Open Sans', sans-serif; font-size:14px; height:100%; line-height:1.4; background-color:#e4e4e4; color:#363636; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;}
+body > main {display: flex;}
 
 a {color:#0087c6; text-decoration:none; cursor:pointer;}
     a:hover {text-decoration:underline;}
 
-
-main {width:1200px; margin:20px auto 0 auto;}
-.content {background-color:#fff; padding:20px;}
-
-h1, .h1 {font-size:16px; font-weight:normal; color:#000;}
-h2, .h2 {font-size:16px; font-weight:normal; color:#000; margin:1em 0 4px 0;}
-
-html body .full {width:calc(100vw); margin-left:calc((-100vw + 100%) / 2 );}
-.full > * {width:1200px; margin:0 auto;}
-
-ul, li {margin:0; padding:0; list-style-type:none;}
-.ul {margin:16px 0;}
-.ul li {background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAMAAACqqpYoAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAlQTFRFmpqa9fX1SUlJDOOqDgAAABFJREFUeNpiYGRiYABigAADAAAiAAetAjbFAAAAAElFTkSuQmCC'); background-position:0 8px; background-repeat:no-repeat; padding-left:10px;}
-    .ul li li {margin-left:10px;}
-ul.horiz {padding:0 0 0 4px;}
-    ul.horiz li {display: inline-block; position:relative; margin:0 0 0 -4px;}
-
-table {width:100%;}
-    table thead th {background-color:#f4f4f4; font-weight:normal; text-align:left; padding:5px; font-size:13px; color:#999;}
-    table thead th a {text-decoration:none; color:#999;}
-    table tbody td {padding:5px; font-size:13px; color:#000;}
-    table tbody tr {border-bottom:1px solid #f4f4f4; transition:background-color 0.2s ease;}
-    table tbody tr:nth-child(even) {background-color:#fafafa;}
-    /*table tbody tr:hover {background-color:#e6f3f9;}*/
-
-dl {margin-top:0;}
-    dt {font-size:9px; font-weight:normal; color:#666; margin-bottom:2px;}
-    dd {margin-left:0; margin-bottom:12px; font-size:14px; color:#333;}
-
-
-
+.content {margin:20px;}
 
 
 
@@ -84,38 +55,11 @@ dl {margin-top:0;}
 /* ----------------------------------- */
 
 
-
-
-
-body {font-family:courier; padding:10px;}
-
-.flex-container {display:flex; /*flex-direction: row; flex-wrap: nowrap; align-items: flex-start; align-content: flex-start;*/}
-.flex-container > div {flex-grow:1;}
-
-
-
-
-
-
-
-
-body {
-  font-family: sans-serif;
-}
-a {
-  color: #369;
-}
-.note {
-  width: 500px;
-  margin: 50px auto;
-  font-size: 1.1em;
-  color: #333;
-  text-align: justify;
-}
 #drop-area {
   border: 2px dashed #ccc;
   border-radius: 20px;
   width: 480px;
+  height:240px;
   margin: 50px auto;
   padding: 20px;
 }
